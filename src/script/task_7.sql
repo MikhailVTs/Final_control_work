@@ -1,0 +1,1 @@
+CREATE DATABASE Mans_friends;
